@@ -52,23 +52,6 @@ The Tableau dashboard enables:
 
 🔗 **Tableau Public Dashboard:** *(add link here)*
 
-## 📁 Repository Structure
-hr_attrition_model
-│
-├── data
-│   └── Employee_Attrition_DataSet.csv
-│
-├── notebooks
-│   └── attrition_analysis.ipynb
-│   └── attrition_model.py
-|
-├── tableau
-│   └── tableau_dashboard.twbx
-│
-├── outputs
-│   └── feature_importance.png
-│
-└── README.md
 
 
 ## Business Insights
