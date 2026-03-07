@@ -50,7 +50,7 @@ The Tableau dashboard enables:
 - Identification of drivers of attrition such as promotion, overtime and satisfaction
 - Distribultion of features by department, age and tenure
 
-🔗 **Tableau Public Dashboard:** *(add link here)*
+🔗 **Tableau Public Dashboard:** https://public.tableau.com/app/profile/ayaan.ahmad5861/viz/EmployeeAttritionModel_17728739837750/EmployeeAttritionModel#1
 
 
 
