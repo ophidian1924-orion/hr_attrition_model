@@ -55,7 +55,37 @@ The Tableau dashboard enables:
 
 
 ## Business Insights
+- Overtime is highly correlated with Attrition. Those who have been given overtime have a 56% more chance of attritioning than those who haven't.
+  HR Recommendation: Give less overtime to employees. More focus should be given on proper workload management.
+- Senior level employees are less likely to attrition while junior level employees are more likely to attrition. 22 year old employees have the highest risk of attrition.
+  HR Recommendation: Incentives should be given to junior level employees to continue with the company. Counselling sessions should be conducted to show career   growth if they stay with the company
+- Satisfaction score and work life balance score are negatively correlated with attrition.
+  HR Recommendation: Ensure high satisfaction and work life balance score amongst all employees.
+- Those employees who have not been promoted in the last 5 years have a 92% more chance of attrition than those who have.
+  HR Recommendation: Promotion policy should be made more lenient and more number of promotional opportunities should be granted to employees to reduce attrition.
+- 9% of current employees are under "High Risk" of attrition.
+- Sales and Engineering departments have the highest number of high risk employees while HR department has the least.
 
+## Top 19 employees at risk of attrition:
+- EMP1860
+- EMP0976
+- EMP3427
+- EMP8893
+- EMP5090
+- EMP8539
+- EMP1343
+- EMP3705
+- EMP9004
+- EMP3776
+- EMP8538
+- EMP7580
+- EMP9152
+- EMP3340
+- EMP8993
+- EMP3601
+- EMP5390
+- EMP9010
+- EMP9672
 
 ## Tools Used
 - Python (Pandas, NumPy)
