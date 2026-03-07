@@ -46,9 +46,9 @@ The dataset contains data of 10,000 employees with attributes including:
 
 ## Dashboard
 The Tableau dashboard enables:
-- Filtering by industry, geography, and valuation
-- Identification of top investment candidates
-- Visual analysis of growth velocity and investor saturation
+- Identification of top 20 at risk employees
+- Identification of drivers of attrition such as promotion, overtime and satisfaction
+- Distribultion of features by department, age and tenure
 
 🔗 **Tableau Public Dashboard:** *(add link here)*
 
@@ -60,11 +60,9 @@ hr_attrition_model
 │
 ├── notebooks
 │   └── attrition_analysis.ipynb
-│
-├── scripts
 │   └── attrition_model.py
-│
-├── dashboard
+|
+├── tableau
 │   └── tableau_dashboard.twbx
 │
 ├── outputs
